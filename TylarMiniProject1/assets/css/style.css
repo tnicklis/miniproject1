@@ -1,0 +1,43 @@
+* { 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header,
+footer {
+    background-color: maroon;
+    color: white;
+    text-align: center;
+}
+
+.fixedheader {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbar {
+    background-color: white;
+    color:black;
+    padding: 5px;
+
+
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 120px;
+    width: 50%;
+    border: solid black 5px;
+}
+
+.linen {
+    background-color: linen;
+    text-align: center;
+}
+
+.pink {
+    background-color: mistyrose;
+    text-align: center;
+}
