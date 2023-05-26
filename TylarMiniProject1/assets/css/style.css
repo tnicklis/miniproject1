@@ -7,6 +7,11 @@ footer {
     background-color: maroon;
     color: white;
     text-align: center;
+    margin: 0;
+}
+
+footer p {
+    margin:0;
 }
 
 .fixedheader {
