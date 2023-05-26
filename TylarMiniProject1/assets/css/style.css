@@ -19,8 +19,10 @@ footer {
     background-color: white;
     color:black;
     padding: 5px;
+}
 
-
+section {
+    padding: 10px;
 }
 
 img {
